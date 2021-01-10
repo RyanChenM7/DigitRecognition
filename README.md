@@ -1,4 +1,5 @@
 #DigitRecognition
+
 Standard practice in creating a Neural Network, following multiple online guides on how to implement the classic ANN for beginners in Python.
 Includes a visualization which shows the neural network in action, by showing what digit it believes the image to be through graphing the output layer.
 
