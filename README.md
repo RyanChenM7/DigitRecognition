@@ -1,7 +1,7 @@
 # DigitRecognition
 
 Standard practice in creating a Neural Network, following multiple online guides on how to implement the classic ANN for beginners in Python.
-Includes a visualization which shows the neural network in action, by showing what digit it believes the image to be through graphing the output layer.
+Includes Matplotlib visualization, which shows the neural network in action. Graphs the output layer for random samples from the MNIST database; this displays the prediction confidence of the network for the image.
 
 The file `neural_network.py` is used to train the neural network using the MNIST database based on a couple of variables.
 For instance the number of layers, size of layers, # of epochs, learning rate, and mini batch size.
