@@ -6,7 +6,7 @@ Includes a visualization which shows the neural network in action, by showing wh
 The file `neural_network.py` is used to train the neural network using the MNIST database based on a couple of variables.
 For instance the number of layers, size of layers, # of epochs, learning rate, and mini batch size.
 
-The file 'network_demo.py' will load up a previously trained (or possibly untrained) neural network, and it will run the AI on samples that are pulled from the database.
+The file `network_demo.py` will load up a previously trained (or possibly untrained) neural network, and it will run the AI on samples that are pulled from the database.
 
 </br>
 
