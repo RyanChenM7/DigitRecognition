@@ -27,7 +27,7 @@ Uncertain, but still got the correct answer of 0.
      style="float: left; margin-right: 10px;" />
 
 Got the answer wrong, but to be fair it does look like a 5.
-<img src="https://media.discordapp.net/attachments/795803904075366400/797636380938207282/unknown.png?width=1239&height=677"
+<img src="https://media.discordapp.net/attachments/795803904075366400/797636534337011762/unknown.png?width=1239&height=677"
      alt=""
      style="float: left; margin-right: 10px;" />
 
