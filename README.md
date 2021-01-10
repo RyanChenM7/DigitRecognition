@@ -21,7 +21,7 @@ Confident in 2.
      alt=""
      style="float: left; margin-right: 10px;" />
 
-Incorrectly identified the number as 8. (Correct: 5)
+Incorrectly identified the number as 8.
 <img src="https://media.discordapp.net/attachments/795803904075366400/797626825156198410/unknown.png?width=1239&height=677"
      alt=""
      style="float: left; margin-right: 10px;" />
